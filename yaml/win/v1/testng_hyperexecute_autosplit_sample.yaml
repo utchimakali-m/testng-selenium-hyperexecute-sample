@@ -30,31 +30,18 @@ jobLabel: [selenium-testng, win, v1, '${label}','${env}']
 
 vars:
   abc: var1
-  var2: ${xyz}
+  var2: iPhone
   CMP: LT
   var: 
   Var3: LTQA
   var4: ltqa
   123: 123
-
-
-
-
-
-
-
-
-sanity: LTjobs
-
-
-
-09: _)(
-
-
+  sanity: LTjobs
+  09: _)(
 city: chennai
-
-
 JOB: SDET sdet
+JOBid: https://github.com/utchimakali-m/testng-selenium-hyperexecute-sample/edit/main/yaml/win/v1/testng_hyperexecute_autosplit_sample.yaml
+taskid: https://github.com/utchimakali-m/testng-selenium-hyperexecute-sample/edit/main/yaml/win/v1/testng_hyperexecute_autosplit_sample.yaml
 
 
   
