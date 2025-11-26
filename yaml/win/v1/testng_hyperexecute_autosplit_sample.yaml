@@ -38,10 +38,15 @@ vars:
   123: 123
   sanity: LTjobs
   09: _)(
+
+  
 city: chennai
 JOB: SDET sdet
 JOBid: https://github.com/utchimakali-m/testng-selenium-hyperexecute-sample/edit/main/yaml/win/v1/testng_hyperexecute_autosplit_sample.yaml
 taskid: https://github.com/utchimakali-m/testng-selenium-hyperexecute-sample/edit/main/yaml/win/v1/testng_hyperexecute_autosplit_sample.yaml
+!@!@@12: json
+
+
 
 
   
