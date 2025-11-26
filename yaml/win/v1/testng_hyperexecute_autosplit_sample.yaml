@@ -26,4 +26,9 @@ testRunnerCommand: mvn test `-Dplatname=win `-Dmaven.repo.local=./.m2 dependency
 retryOnFailure: true
 maxRetries: 1
 
-jobLabel: [selenium-testng, win, v1, '${label}']
+jobLabel: [selenium-testng, win, v1, '${label}' '${env}' ]
+
+vars:
+  abc: var1
+  var2: ${xyz}
+  
