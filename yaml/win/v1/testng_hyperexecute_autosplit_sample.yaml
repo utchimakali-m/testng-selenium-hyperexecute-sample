@@ -33,6 +33,7 @@ vars:
   var2: iPhone
   CMP: LT
   var: 
+  duplicate:
   Var3: LTQA
   var4: ltqa
   123: 123
@@ -46,4 +47,4 @@ JOBid: https://github.com/utchimakali-m/testng-selenium-hyperexecute-sample/edit
 taskid: https://github.com/utchimakali-m/testng-selenium-hyperexecute-sample/edit/main/yaml/win/v1/testng_hyperexecute_autosplit_sample.yaml
 
 type: raw
-env: 
+
