@@ -46,6 +46,11 @@ JOBid: https://github.com/utchimakali-m/testng-selenium-hyperexecute-sample/edit
 taskid: https://github.com/utchimakali-m/testng-selenium-hyperexecute-sample/edit/main/yaml/win/v1/testng_hyperexecute_autosplit_sample.yaml
 
 type: raw
+version: 0.1
+runson: win
+runtime:
+  language: java
+  version: 11
 
 
   
