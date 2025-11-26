@@ -32,4 +32,11 @@ vars:
   abc: var1
   var2: ${xyz}
   CMP: LT
+  var: 
+  Var3: LTQA
+  var4: ltqa
+  123: 123
+  !@#: 123
+  -09: _)(
+  
   
