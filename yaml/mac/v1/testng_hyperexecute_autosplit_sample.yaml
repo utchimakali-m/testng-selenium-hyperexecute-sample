@@ -27,3 +27,21 @@ retryOnFailure: true
 maxRetries: 1
 
 jobLabel: [selenium-testng, mac, v1, autosplit]
+
+vars:
+  abc: var1
+  var2: iPhone
+  CMP: LT
+  var: 
+  duplicate:
+  Var3: LTQA
+  var4: ltqa
+  123: 123
+  sanity: LTjobs
+  009: _)(
+ city: chennai
+ JOB: SDET sdet
+ JOBid: https://github.com/utchimakali-m/testng-selenium-hyperexecute-sample/edit/main/yaml/win/v1/testng_hyperexecute_autosplit_sample.yaml
+ taskid: https://github.com/utchimakali-m/testng-selenium-hyperexecute-sample/edit/main/yaml/win/v1/testng_hyperexecute_autosplit_sample.yaml
+ type: raw
+ Device:
