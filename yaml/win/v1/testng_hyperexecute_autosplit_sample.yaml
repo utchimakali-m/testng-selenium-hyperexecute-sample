@@ -26,7 +26,7 @@ testRunnerCommand: mvn test `-Dplatname=win `-Dmaven.repo.local=./.m2 dependency
 retryOnFailure: true
 maxRetries: 1
 
-jobLabel: [selenium-testng, win, v1, '${label}']
+jobLabel: [selenium-testng, win, v1, '${label}', '${device}']
 
 vars:
   abc: var1
@@ -44,4 +44,4 @@ vars:
  JOBid: https://github.com/utchimakali-m/testng-selenium-hyperexecute-sample/edit/main/yaml/win/v1/testng_hyperexecute_autosplit_sample.yaml
  taskid: https://github.com/utchimakali-m/testng-selenium-hyperexecute-sample/edit/main/yaml/win/v1/testng_hyperexecute_autosplit_sample.yaml
  type: raw
- device: mac
+ 
