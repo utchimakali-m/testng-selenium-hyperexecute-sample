@@ -28,6 +28,10 @@ maxRetries: 1
 
 jobLabel: [selenium-testng, win, v1, '${label}', '${device}']
 
+vars:
+abc: test
+abc: test
+
 # vars:
 #   abc: var1
 #   var2: iPhone
