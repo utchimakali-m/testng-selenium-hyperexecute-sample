@@ -37,9 +37,10 @@ ltOptions:
   version: latest
   video: false
 
-jobLabel: [selenium-testng, linux, ltOptionsYamlDirective]
+jobLabel: [selenium-testng, linux, ]
 
 
 vars:
  abc: LT
  Prod: HYE
+ var2: ${asdf}
