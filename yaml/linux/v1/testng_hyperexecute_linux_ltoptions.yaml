@@ -37,10 +37,8 @@ ltOptions:
   version: latest
   video: false
 
-jobLabel: [selenium-testng, linux, '${label}']
-
+jobLabel: [selenium-testng, linux, '${label}', '${device}']
 
 vars:
- abc: LT
- Prod: HYE
- var2: ${asdf}
+  abc: ${dfsf}
+
