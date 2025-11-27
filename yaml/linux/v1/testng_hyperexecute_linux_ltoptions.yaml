@@ -37,7 +37,7 @@ ltOptions:
   version: latest
   video: false
 
-jobLabel: [selenium-testng, linux, ]
+jobLabel: [selenium-testng, linux, '${label}']
 
 
 vars:
