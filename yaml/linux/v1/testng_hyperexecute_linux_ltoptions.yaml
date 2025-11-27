@@ -40,5 +40,5 @@ ltOptions:
 jobLabel: [selenium-testng, linux, '${label}', '${device}']
 
 vars:
-  abc: ${dfsf}
+  abc: ${dfd}
 
