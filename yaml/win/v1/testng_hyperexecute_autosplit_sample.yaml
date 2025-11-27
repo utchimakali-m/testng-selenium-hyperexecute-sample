@@ -32,7 +32,7 @@ vars:
   abc: ${dfsf}
   testing: YAML 
   QA: Utchi
-  Dev:
+  Dev: ${adad}
 
 # vars:
 #   abc: var1
