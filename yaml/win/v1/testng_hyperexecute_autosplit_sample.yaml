@@ -33,6 +33,7 @@ vars:
   testing: YAML 
   QA: Utchi
   Dev: ${adad}
+  leave: 24-11-25
 
 # vars:
 #   abc: var1
