@@ -30,6 +30,9 @@ jobLabel: [selenium-testng, win, v1, '${label}', '${device}']
 
 vars:
   abc: ${dfsf}
+  testing: YAML 
+  QA: Utchi
+  Dev:
 
 # vars:
 #   abc: var1
