@@ -38,3 +38,8 @@ ltOptions:
   video: false
 
 jobLabel: [selenium-testng, linux, ltOptionsYamlDirective]
+
+
+vars:
+ abc: LT
+ Prod: HYE
