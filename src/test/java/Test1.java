@@ -59,7 +59,7 @@ public class Test1 {
         ltOptions.put("network", true);
         ltOptions.put("console", true);
         ltOptions.put("visual", true);
-        ltOptions.put("selenium_version", "4.39.0");
+        ltOptions.put("selenium_version", "4.24.0");
         ltOptions.put("w3c", true);
 
         // Accessibility options
